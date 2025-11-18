@@ -2,4 +2,4 @@
 
 ==========================================
 
-1. Strings en Python "notebook strings"
+1. Strings en Python ["notebook strings"](./Strings.ipynb)
