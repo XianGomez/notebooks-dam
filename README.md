@@ -13,3 +13,4 @@
 9. Operadores Lógicos Simples ["notebook operadores lógicos"](./operadores_logicos_simple.ipynb)
 10. Excepciones ["notebook excepciones"](./Excepciones.ipynb)
 11. List Comprehesions ["Comprehesions"](./listComprehensions.ipynb)
+12. Programación Funcional ["Programming Tools"](./ProgrammingTools.ipynb)
