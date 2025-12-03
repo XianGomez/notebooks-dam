@@ -14,3 +14,4 @@
 10. Excepciones ["notebook excepciones"](./Excepciones.ipynb)
 11. List Comprehesions ["Comprehesions"](./listComprehensions.ipynb)
 12. Programación Funcional ["Programming Tools"](./ProgrammingTools.ipynb)
+13. Generacion de Comprensiones ["Comprehensions Generations"](./ComprehensionsGenerations.ipynb)
